@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
 	int n, Min = INT16_MAX;
-	int tmp;
+	int tmp = 0;
 	cin >> n;
 	for (int i = 0; i < n; i++) {
 		int x; cin >> x;
